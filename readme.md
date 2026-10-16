@@ -101,7 +101,6 @@
 - [Flying Gorilla 3D](https://github.com/web-ports/flying-gorilla) - port by [98corbins](https://98.c0rbin.fun/)
 - [Free Heroes of Might and Magic II](https://github.com/Carter54git/fheroes-1.1.17-ported-to-web) - port by [Carter54](https://github.com/Carter54git)
 - [Fundamental Paper Novel](https://github.com/bubbls/ports/tree/main/fpn-FULLY_RECRAFTED-web) - port by [bubbls](https://github.com/bubbls)
-<!-- [Fungiman](https://github.com/GrassPorts/Fungiman) - port by [grass](https://github.com/GrassPorts) -->
 - [Gabriel's Awesome Schoolhouse](https://github.com/web-ports/gash) - port by [bread](https://github.com/genizy)
 - [Gamble with Your Friends](https://github.com/Camzzz-vrgt/gamble-with-your-friends-web/tree/main/game) - port by [Camzzz](https://github.com/Camzzz-vrgt)
 - [Gang Beasts](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) - port by [teaser.lua](https://github.com/teaserlua)
