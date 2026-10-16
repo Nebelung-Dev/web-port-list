@@ -221,7 +221,7 @@
 - [Team Fortress 2](https://tf2.riddy.workers.dev/) - port by riddy
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Binding of Isaac: Repentance](https://github.com/chiikabu/the-browsing-of-isaac) - port by [chiikabu](https://github.com/chiikabu)
-- [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
+- [The Deadseat](https://github.com/TheBlehLollipop/The-Deadseat-Webport), [2](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [Lolipop](https://github.com/TheBlehLollipop)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
 - [The Math Is Leaking](https://github.com/reeyuki/themathisleaking) - port by [reeyuki](https://reeyuki.neocities.org/)
