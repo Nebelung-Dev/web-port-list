@@ -74,6 +74,7 @@
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger 2: Termina](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
 - [Feed & Grow Fish](https://github.com/Reeyuki/FeedAndGrowFishPort) - port by [reeyuki](https://reeyuki.neocities.org/)
+- [Feed the Pit](https://github.com/idkdl/feedthepit-src) - port by [wind](https://github.com/idkdl)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FIH](https://github.com/InsayneBoko/fih-port/tree/main/port) - port by [InsayneBoko](https://github.com/InsayneBoko)
 - [FISH](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
