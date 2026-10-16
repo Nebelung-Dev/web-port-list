@@ -2,7 +2,7 @@
 - [-3](https://github.com/aukak/-3) - port by [bog/aukak](https://github.com/aukak)
 - [-b](https://github.com/web-ports/baldi-mods/tree/main/-b) - port by [bog/aukak](https://github.com/aukak)
 - [20 Minutes Till Dawn](https://github.com/web-ports/20-minutes) - port by bog and rah
-- [60 Seconds! Reatomized](https://github.com/usheje883-maker/60-Seconds-Webport) - port by [ThatWirdGuy](https://github.com/usheje883-maker)
+- [60 Seconds!](https://github.com/usheje883-maker/60-Seconds-Webport) - port by [ThatWirdGuy](https://github.com/usheje883-maker)
 - [A Bite at Freddy's](https://github.com/freebuisness/assets/tree/main/258) - port by [bread](https://github.com/genizy)
 - [A Dance of Fire and Ice](https://github.com/Nawsif/host/tree/main/ADOFAI) - port by [zaddy](https://github.com/Nawsif)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
