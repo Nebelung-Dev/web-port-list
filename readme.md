@@ -194,7 +194,7 @@
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [SCP: Containment Breach](https://github.com/larpinguser/q8j) - port by [q8j](https://github.com/q8j-dev)
-- [Scritchy Scratchy](https://github.com/c00lkiddtech/scratchy) - port by [c00lkiddtech]([https://github.com/q8j-dev](https://github.com/c00lkiddtech))
+- [Scritchy Scratchy](https://github.com/c00lkiddtech/scratchy) - port by [c00lkiddtech](https://github.com/c00lkiddtech)
 - [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
 - [Shrimpio](https://github.com/goodmeals/shrimpio) - port by [bog/aukak](https://github.com/aukak)
 - [SNAPTIC](https://github.com/degloved-net/snaptic-web) - port by [Cirsius](https://github.com/Cirsius)
