@@ -146,6 +146,7 @@
 - [KisakCOD](https://github.com/slqntdevss/kisakcod-port) - port by [slant](https://github.com/slqntdevss)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/lacysflashgames) - Ported by [bread](https://github.com/genizy)
 - [La Madriguera](https://github.com/web-ports/la-madriguera) - port by [bread](https://github.com/genizy)
+- [LEGOLAND (1999)](https://github.com/facundosterzerforino/legoland-port) - port by [facundosterzerforino](https://github.com/facundosterzerforino)
 - [Lethal Ape](https://github.com/web-ports/lethal-ape) - port by [98Corbins](https://98.c0rbin.fun/)
 - [Lobotomy Corporation](https://github.com/Reeyuki/lobcorp) - port by [reeyuki](https://reeyuki.neocities.org)
 - [Look Outside](https://github.com/web-ports/look-outside) - port by [bread](https://github.com/genizy)
