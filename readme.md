@@ -219,6 +219,7 @@
 - [Stardew Valley](https://github.com/degloved-net/stardew-wasm) - port by [cirsius](https://github.com/Cirsius)
 - [Stick with It](https://github.com/slqntdevss/StickWithItPort) - port by [slqnt](https://github.com/slqntdevss)
 - [SRB2 Kart](https://github.com/skyleite/Kart-Public-WASM/) - ported by [skyleite](https://github.com/skyleite)
+- [Subway Surfers: Las Vegas](https://github.com/Toastiest64/Las-Vegas) - port by [Toast64](https://github.com/Toastiest64)
 - [Suicide Guy Deluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Super Choppy Orc](https://github.com/gays-studio/super-choppy-orc) - port by [aj](https://github.com/ajtabjs)
 - [Superflight](https://github.com/squidward5/superflight-webport) - port by [zay](https://github.com/squidward5)
