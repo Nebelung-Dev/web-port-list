@@ -196,7 +196,7 @@
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [SCP: Containment Breach](https://github.com/larpinguser/q8j) - port by [q8j](https://github.com/q8j-dev)
 - [Scritchy Scratchy](https://github.com/c00lkiddtech/scratchy) - port by [c00lkiddtech](https://github.com/c00lkiddtech)
-- [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
+- [Sex with Hitler](https://github.com/q-29/swhport-fixed) - port by [aj](https://github.com/ajtabjs), fixed by [q-29](https://github.com/q-29)
 - [Shift at Midnight](https://github.com/slqntdevss/ShiftAtMidnightPort) - port by [slant](https://github.com/slqntdevss)
 - [Side Effects](https://github.com/gn-math/assets/tree/main/318) - port by [bread](https://github.com/genizy)
 - [Shrimpio](https://github.com/goodmeals/shrimpio) - port by [bog/aukak](https://github.com/aukak)
